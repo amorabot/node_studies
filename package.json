@@ -1,13 +1,8 @@
 {
-  "name": "NodeCourse",
+  "name": "nodecourse",
   "version": "1.0.0",
   "description": "",
   "main": "1-intro.js",
-  "dependencies": {
-    "bootstrap": "^5.1.0",
-    "lodash": "^4.17.21"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/amorabot/node_studies/issues"
   },
-  "homepage": "https://github.com/amorabot/node_studies#readme"
+  "homepage": "https://github.com/amorabot/node_studies#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "lodash": "^4.17.21"
+  }
 }
