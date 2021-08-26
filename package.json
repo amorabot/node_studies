@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/amorabot/node_studies#readme",
   "dependencies": {
-    "bootstrap": "^5.1.0",
-    "lodash": "^4.17.21"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
